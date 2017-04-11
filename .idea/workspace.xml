@@ -6,13 +6,127 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="asds" />
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5fe3768-3ac1-43ad-9b30-091f89c720ab" name="Default" comment="" />
-    <ignored path="Multibhashi.iws" />
+    <list default="true" id="f4f5ef56-f1fa-466a-b014-aec0cd21cdf1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-04-41-077.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-07-01-953.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-29-54-017.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-29-59-920.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-30-06-257.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-40-59-009.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-41-00-612.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-44-17-016.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-44-18-023.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-49-13-955.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-14-52-41-521.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-08-45-249.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-10-47-123.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-11-33-948.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-15-45-191.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-23-27-246.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-23-28-852.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-25-30-547.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-25-31-883.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-46-05-591.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-48-33-388.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-48-57-645.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-50-24-784.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-51-47-108.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-55-00-306.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-15-56-15-899.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-16-58-922.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-19-31-569.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-42-22-411.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-43-07-895.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-43-50-728.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-45-01-422.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-46-11-608.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-47-44-273.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-49-19-595.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-50-18-264.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-51-20-170.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-52-55-257.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-16-56-58-772.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-06-13-624.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-14-58-145.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-22-12-684.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-23-49-645.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-24-44-839.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-27-38-586.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-27-53-838.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-29-35-813.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-30-19-030.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-31-44-244.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-34-10-578.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-35-11-453.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-36-31-522.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-11-17-37-18-752.rawproto" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivities/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/ShowCase.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivities/ShowCase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/cardview_v7_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/cardview_v7_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/converter_gson_2_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/converter_gson_2_2_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/design_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/design_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_7.xml" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_7.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_integration_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_integration_1_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_library_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_library_1_3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/javawriter_2_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javawriter_2_1_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/javax_annotation_api_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javax_annotation_api_1_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/jsr305_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/jsr305_2_0_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/okhttp_3_6_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/okhttp_3_6_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/okio_1_11_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/okio_1_11_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/retrofit_2_2_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/retrofit_2_2_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_24_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_24_2_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Adapter/AudioAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Adapter/AudioAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Fragment/AudioFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Fragment/AudioFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_show_case.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_show_case.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/blank_list.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/blank_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_audio.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_audio.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_audio_adapter.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_audio_adapter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+    </list>
+    <ignored path="Multibhashi2-master.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,58 +152,15 @@
     </system>
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="Multibhashi" />
+    <favorites_list name="Multibhashi2-master" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <file leaf-file-name="ApiClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShowCase.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/ShowCase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+            <state relative-caret-position="288">
+              <caret line="17" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,33 +169,20 @@
       <file leaf-file-name="Model.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Model/Model.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="198">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApiClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiClient.java">
+      <file leaf-file-name="ShowCase.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivities/ShowCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+            <state relative-caret-position="90">
+              <caret line="179" column="6868" selection-start-line="179" selection-start-column="6868" selection-end-line="179" selection-end-column="6868" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ApiResponse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Model/ApiResponse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -133,8 +191,41 @@
       <file leaf-file-name="ApiInterface.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            <state relative-caret-position="144">
+              <caret line="11" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivities/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_show_case.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_show_case.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AudioFragment.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Fragment/AudioFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2466">
+              <caret line="139" column="12" selection-start-line="139" selection-start-column="12" selection-end-line="139" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,28 +233,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+      <file leaf-file-name="blank_list.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/blank_list.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="android-manifest">
+        </entry>
+      </file>
+      <file leaf-file-name="fragment_audio.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_audio.xml">
+          <provider selected="true" editor-type-id="android-designer2">
             <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="item_audio_adapter.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_audio_adapter.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="ASClass" />
-        <option value="ASInterface" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -171,19 +283,19 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="Multibhashi2" />
+              <option name="name" value="Multibhashi2-master" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value=":app" />
-                <option name="path" value="$PROJECT_DIR$/app" />
+                <option name="name" value="Multibhashi2-master" />
+                <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="Multibhashi2" />
-                <option name="path" value="$PROJECT_DIR$" />
+                <option name="name" value=":app" />
+                <option name="path" value="$PROJECT_DIR$/app" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -196,7 +308,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'Multibhashi2'." />
+                <option name="description" value="Displays the sub-projects of root project 'Multibhashi2-master'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -230,7 +342,7 @@
                 <option name="name" value="assembleDebugUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'Multibhashi2'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'Multibhashi2-master'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -240,7 +352,7 @@
                 <option name="name" value="mockableAndroidJar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'Multibhashi2' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'Multibhashi2-master' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -263,9 +375,14 @@
                 <option name="name" value="deviceCheck" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'Multibhashi2'." />
+                <option name="description" value="Displays all dependencies declared in root project 'Multibhashi2-master'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:recyclerview-v7:24.2.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportRecyclerviewV72421Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -332,7 +449,7 @@
                 <option name="name" value="compileDebugAndroidTestJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'Multibhashi2'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'Multibhashi2-master'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -414,6 +531,11 @@
                 <option name="name" value="incrementalDebugAndroidTestJavaCompilationSafeguard" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:cardview-v7:24.2.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportCardviewV72421Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="checkReleaseManifest" />
               </ExternalTaskPojo>
@@ -452,7 +574,7 @@
                 <option name="name" value="uninstallDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'Multibhashi2'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'Multibhashi2-master'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -629,6 +751,11 @@
                 <option name="name" value="jarReleaseClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:design:24.2.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportDesign2421Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="transformResourcesWithMergeJavaResForDebugAndroidTest" />
               </ExternalTaskPojo>
@@ -742,7 +869,12 @@
                 <option name="name" value="generateDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'Multibhashi2'." />
+                <option name="description" value="Displays the dependent components of components in root project 'Multibhashi2-master'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'Multibhashi2-master'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -874,7 +1006,7 @@
                 <option name="name" value="generateReleaseResValues" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'Multibhashi2'." />
+                <option name="description" value="Displays the properties of root project 'Multibhashi2-master'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -950,6 +1082,11 @@
                 <option name="description" value="Displays all dependencies declared in project ':app'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:recyclerview-v7:24.2.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportRecyclerviewV72421Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1096,6 +1233,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="incrementalDebugAndroidTestJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:cardview-v7:24.2.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportCardviewV72421Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -1308,6 +1450,11 @@
                 <option name="name" value="jarReleaseClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:design:24.2.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportDesign2421Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="transformResourcesWithMergeJavaResForDebugAndroidTest" />
               </ExternalTaskPojo>
@@ -1419,6 +1566,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="generateDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in project ':app'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all buildscript dependencies declared in project ':app'." />
@@ -1565,7 +1717,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4475465196816" />
+        <entry key="$PROJECT_DIR$" value="4475673453044" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1747,74 +1899,144 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="app" />
+              <option name="name" value="Multibhashi2-master" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-core-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/ant-launcher-1.9.6.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-base-services-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-native-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-wrapper-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-model-groovy-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-model-core-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-launcher-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-resources-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-tooling-api-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-messaging-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-base-services-groovy-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-jvm-services-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/groovy-all-2.4.4.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-cli-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-logging-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-installation-beacon-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/ant-1.9.6.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-docs-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-process-services-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-ui-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/gradle-open-api-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-resources-s3-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-antlr-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-platform-base-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-testing-base-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-language-groovy-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-publish-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-javascript-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-signing-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-language-native-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-ide-native-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-testing-jvm-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-plugins-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-tooling-api-builders-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-jetty-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-announce-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-test-kit-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-ide-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-diagnostics-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-language-scala-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-build-init-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/ivy-2.2.0.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-maven-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-platform-jvm-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-language-jvm-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-platform-native-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-sonar-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-osgi-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-plugin-development-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-resources-sftp-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-code-quality-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-ivy-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-ear-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-build-comparison-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-ide-play-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-dependency-management-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-language-java-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-scala-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-jacoco-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-resources-http-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-platform-play-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-reporting-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-testing-native-2.14.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.14.1/lib/plugins/gradle-plugin-use-2.14.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/ear" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/testing-base" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/tooling-api-builders" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/native" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/resources-http" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/ide-native" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/reporting" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/dependency-management" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/platform-native" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/build-cache-http" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/base-services-groovy" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/wrapper" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/internal-integ-testing" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/antlr" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/announce" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/language-native" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/resources-s3" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/installation-beacon" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/platform-base" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/platform-jvm" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/process-services" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/build-init" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/plugin-development" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/tooling-api" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/testing-jvm" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/resources-sftp" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/language-jvm" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/ide" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/jvm-services" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/base-services" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/jetty" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/ivy" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/osgi" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/internal-testing" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/testing-native" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/messaging" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/scala" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/maven" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/core" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/test-kit" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/plugin-use" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/model-groovy" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/diagnostics" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/ui" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/platform-play" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/build-comparison" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/jacoco" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/language-java" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/code-quality" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/javascript" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/launcher" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/open-api" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/language-groovy" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/model-core" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/workers" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/language-scala" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/resources" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/internal-performance-testing" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/signing" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/cli" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/logging" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/composite-builds" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/publish" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/ide-play" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/internal-android-performance-testing" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/src/plugins" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-tooling-api-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/groovy-all-2.4.7.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-launcher-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-base-services-groovy-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-model-groovy-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-version-info-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-wrapper-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-jvm-services-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-base-services-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-native-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-ui-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-open-api-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-resources-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-process-services-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-model-core-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-installation-beacon-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-messaging-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-cli-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/ant-1.9.6.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-core-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-script-kotlin-0.5.1.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-docs-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/gradle-logging-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-diagnostics-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-signing-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-antlr-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-resources-sftp-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-plugin-use-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-workers-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-ivy-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-language-java-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-ide-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-plugin-development-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-jacoco-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-language-native-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-javascript-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-composite-builds-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-language-groovy-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-announce-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-publish-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-osgi-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-language-jvm-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-platform-play-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-testing-native-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-build-cache-http-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-platform-native-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-testing-base-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-platform-jvm-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-tooling-api-builders-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-build-comparison-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-dependency-management-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-jetty-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-ear-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-reporting-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-ide-native-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-testing-jvm-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-resources-s3-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-language-scala-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-plugins-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-maven-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-resources-http-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-scala-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-build-init-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-platform-base-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-ide-play-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-code-quality-3.3.jar" />
+                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-3.3/lib/plugins/gradle-test-kit-3.3.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -1831,23 +2053,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Model.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Model/Model.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Model/ApiResponse.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiClient.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiInterface.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Adapter/AudioAdapter.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/ShowCase.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivities/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivities/ShowCase.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Fragment/AudioFragment.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1366" />
-    <option name="height" value="772" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -1878,7 +2097,7 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Multibhashi2" />
+              <option name="myItemId" value="Multibhashi2-master" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1888,17 +2107,57 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Multibhashi2" />
+              <option name="myItemId" value="Multibhashi2-master" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Multibhashi2" />
+              <option name="myItemId" value="Multibhashi2-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Multibhashi2-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Multibhashi2-master" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1912,25 +2171,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Multibhashi2" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="multibhashi" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Multibhashi2" />
+              <option name="myItemId" value="Multibhashi2-master" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1952,7 +2193,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Multibhashi2" />
+              <option name="myItemId" value="Multibhashi2-master" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1972,27 +2213,106 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Multibhashi2-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multibhashi" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MainActivities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Multibhashi2-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multibhashi" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fragment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Multibhashi2-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="multibhashi" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Adapter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Multibhashi2-master" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="recentsLimit" value="5" />
-    <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
     <property name="device.picker.selection" value="e05ec5b3" />
-  </component>
-  <component name="RecentsManager">
-    <key name="android.template.packageName">
-      <recent name="com.example.vrushank.multibhashi" />
-    </key>
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -2288,43 +2608,55 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f5fe3768-3ac1-43ad-9b30-091f89c720ab" name="Default" comment="" />
-      <created>1491821113829</created>
+      <changelist id="f4f5ef56-f1fa-466a-b014-aec0cd21cdf1" name="Default" comment="" />
+      <created>1491916287350</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1491821113829</updated>
+      <updated>1491916287350</updated>
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
+    <frame x="0" y="24" width="1366" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293919" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3435484" sideWeight="0.4969697" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5030303" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3467742" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.5030303" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.4969697" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25075758" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4" sideWeight="0.4969697" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2332,9 +2664,16 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -2344,212 +2683,273 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/ShowCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+        <state relative-caret-position="288">
+          <caret line="17" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Model/Model.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="198">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiClient.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivities/ShowCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Model/ApiResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="11" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivities/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_show_case.xml">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Fragment/AudioFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="144">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
-      <provider editor-type-id="android-manifest">
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/blank_list.xml">
+      <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="62" selection-start-line="24" selection-start-column="62" selection-end-line="24" selection-end-column="62" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/ApiResponse.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiInterface/java.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_audio.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_audio_adapter.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Model/Model.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Model/ApiResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        <state relative-caret-position="144">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Adapter/AudioAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Fragment/AudioFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/ShowCase.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Model/ApiResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Adapter/AudioAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_show_case.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/blank_list.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_audio.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/item_audio_adapter.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Rest/ApiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Model/Model.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivities/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/MainActivities/ShowCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="179" column="6868" selection-start-line="179" selection-start-column="6868" selection-end-line="179" selection-end-column="6868" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/vrushank/multibhashi/Fragment/AudioFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2466">
+          <caret line="139" column="12" selection-start-line="139" selection-start-column="12" selection-end-line="139" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
