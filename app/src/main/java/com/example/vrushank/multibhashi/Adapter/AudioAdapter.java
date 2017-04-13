@@ -1,6 +1,8 @@
 package com.example.vrushank.multibhashi.Adapter;
 
+import android.app.Activity;
 import android.content.Context;
+import android.net.Uri;
 import android.provider.MediaStore;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
@@ -9,8 +11,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.example.vrushank.multibhashi.MainActivities.ShowCase;
 import com.example.vrushank.multibhashi.Model.Model;
 import com.example.vrushank.multibhashi.R;
+
+import java.io.File;
 
 import static android.support.v7.recyclerview.R.styleable.RecyclerView;
 
@@ -21,10 +26,12 @@ import static android.support.v7.recyclerview.R.styleable.RecyclerView;
 public class AudioAdapter  extends RecyclerView.Adapter<RecyclerView.ViewHolder>{
     Context context;
     Model list [];
+    Activity activity;
 
-    public AudioAdapter(Context c, Model l[]) {
+    public AudioAdapter(Context c, Model l[], Activity a) {
         list = l;
         context = c;
+        activity = a;
     }
 
     public RecyclerView.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
@@ -72,7 +79,7 @@ public class AudioAdapter  extends RecyclerView.Adapter<RecyclerView.ViewHolder>
 
 
 
-    private class AudioViewHolder extends RecyclerView.ViewHolder {
+    private class AudioViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
 
         private TextView id, desc;
 
@@ -80,7 +87,17 @@ public class AudioAdapter  extends RecyclerView.Adapter<RecyclerView.ViewHolder>
             super(itemView);
             id = (TextView) itemView.findViewById(R.id.itemID);
             desc = (TextView) itemView.findViewById(R.id.itemDesc);
+            itemView.setOnClickListener(this);
+        }
 
+        @Override
+        public void onClick(View v) {
+            if (activity != null && activity instanceof ShowCase){
+                ((ShowCase) activity).changeFragment(list[getAdapterPosition()]);
+                if (getAdapterPosition() < getItemCount() - 1) ((ShowCase) activity).loadSong(list[getAdapterPosition()+1]);
+                ((ShowCase) activity).loadSong(list[getAdapterPosition()]);
+
+            }
         }
     }
 

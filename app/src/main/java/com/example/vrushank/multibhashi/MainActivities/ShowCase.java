@@ -3,6 +3,7 @@ package com.example.vrushank.multibhashi.MainActivities;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.support.design.widget.Snackbar;
+import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -15,7 +16,10 @@ import android.view.View;
 import android.widget.LinearLayout;
 
 import com.example.vrushank.multibhashi.Adapter.AudioAdapter;
+import com.example.vrushank.multibhashi.AudioPresenter;
 import com.example.vrushank.multibhashi.Fragment.AudioFragment;
+import com.example.vrushank.multibhashi.Interfaces.ItemClickDownload;
+import com.example.vrushank.multibhashi.Interfaces.ItemClickFragmentChange;
 import com.example.vrushank.multibhashi.Model.ApiResponse;
 import com.example.vrushank.multibhashi.Model.Model;
 import com.example.vrushank.multibhashi.R;
@@ -35,18 +39,21 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
-public class ShowCase extends AppCompatActivity {
+public class ShowCase extends AppCompatActivity implements AudioPresenter, ItemClickFragmentChange, ItemClickDownload {
 
     AudioAdapter adapter;
     RecyclerView recyclerView;
     LinearLayoutManager manager;
-    android.support.v4.app.FragmentManager fragmentManager;
+    FragmentManager fragmentManager;
     FragmentTransaction fragmentTransaction;
     int i = 0;
+
     String downloadVersion;
     int size = 0;
     Model audioList[];
     private static String file_url;
+
+    private AudioPresenter presenter;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -66,6 +73,7 @@ public class ShowCase extends AppCompatActivity {
                 ApiClient.getClient().create(ApiInterface.class);
         Call<ApiResponse> call = apiService.getData();
         call.enqueue(new Callback<ApiResponse>() {
+
             @Override
             public void onResponse(Call<ApiResponse> call, Response<ApiResponse> response) {
                 List<Model> models = response.body().getData();
@@ -73,7 +81,7 @@ public class ShowCase extends AppCompatActivity {
                 audioList = new Model[models.size()];
                 for (int i = 0; i < models.size(); i++) {
                     audioList[i] = new Model(models.get(i).getItemid(), models.get(i).getDesc(), models.get(i).getAudio());
-                    Log.d("log", models.get(i).getItemid() + " " + models.get(i).getDesc() + " " + models.get(i).getAudio());
+                    //Log.d("log", models.get(i).getItemid() + " " + models.get(i).getDesc() + " " + models.get(i).getAudio());
                 }
                 size = models.size();
                 i = 0;
@@ -88,10 +96,12 @@ public class ShowCase extends AppCompatActivity {
                         downloadVersion = d;
                     }
                 }
-                fragmentTransaction.replace(R.id.fragmentContainer, newInstance(audioList[0]), "Item Id " + audioList[0].getItemid()).commit();
-                adapter = new AudioAdapter(getApplicationContext(), audioList);
+                //fragmentTransaction.replace(R.id.fragmentContainer, newInstance(audioList[0]), "Item Id " + audioList[0].getItemid()).commit();
+                changeFragment(audioList[0]);
+                loadSong(audioList[0]);
+                //Log.d("Change Fragment", "called");
+                adapter = new AudioAdapter(getApplicationContext(), audioList, ShowCase.this);
                 recyclerView.setAdapter(adapter);
-
             }
 
             @Override
@@ -109,49 +119,6 @@ public class ShowCase extends AppCompatActivity {
 
         });
 
-        recyclerView.addOnItemTouchListener(new RecyclerView.OnItemTouchListener() {
-            @Override
-            public boolean onInterceptTouchEvent(RecyclerView recyclerView, MotionEvent motionEvent) {
-                View child = recyclerView.findChildViewUnder(motionEvent.getX(), motionEvent.getY());
-
-
-                if (child != null && mGestureDetector.onTouchEvent(motionEvent)) {
-
-                    //Toast.makeText(ShowCase.this, "The Item Clicked is: " + recyclerView.getChildPosition(child), Toast.LENGTH_SHORT).show();
-                    int a = recyclerView.getChildPosition(child);
-                    fragmentTransaction = fragmentManager.beginTransaction();
-                    fragmentTransaction.addToBackStack("fragment");
-                    i = a;
-                    if (i + 1 < size) {
-
-                        String d = audioList[i + 1].getDesc().replaceAll("\\s+", "");
-                        String uri = "/sdcard/Multibhashi/" + d + ".aac";
-                        File file = new File(uri);
-                        if (!file.exists()) {
-                            file_url = audioList[i + 1].getAudio();
-                            new DownloadFileFromURL().execute(file_url);
-                            downloadVersion = d;
-                        }
-                    }
-                    fragmentTransaction.replace(R.id.fragmentContainer, newInstance(audioList[i]), "Item Id " + audioList[i].getItemid());
-                    fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN).commit();
-                    return true;
-
-                }
-
-                return false;
-            }
-
-            @Override
-            public void onTouchEvent(RecyclerView recyclerView, MotionEvent motionEvent) {
-
-            }
-
-            @Override
-            public void onRequestDisallowInterceptTouchEvent(boolean disallowIntercept) {
-
-            }
-        });
 
         LinearLayout next = (LinearLayout) findViewById(R.id.nextLayout);
         next.setOnClickListener(new View.OnClickListener()
@@ -159,6 +126,7 @@ public class ShowCase extends AppCompatActivity {
         {
             @Override
             public void onClick(View v) {
+                //Log.d("Next", "On Click");
                 i++;
                 if (i < size) {
                     if (i + 1 < size) {
@@ -167,23 +135,28 @@ public class ShowCase extends AppCompatActivity {
                         File file = new File(uri);
                         if (!file.exists()) {
                             file_url = audioList[i + 1].getAudio();
-                            new DownloadFileFromURL().execute(file_url);
+                            downloadFile(file_url);
                             downloadVersion = d;
                         }
                     }
                     fragmentTransaction = fragmentManager.beginTransaction();
                     fragmentTransaction.addToBackStack("fragment");
-                    fragmentTransaction.replace(R.id.fragmentContainer, newInstance(audioList[i]), "Item Id " + audioList[i].getItemid());
+                    AudioFragment fragment = newInstance(audioList[i]);
+                    playSong(fragment);
+                    fragmentTransaction.replace(R.id.fragmentContainer, fragment, "Item Id " + audioList[i].getItemid());
                     fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN).commit();
                 } else {
                     Snackbar.make(getCurrentFocus(), "There are no more Tracks", Snackbar.LENGTH_SHORT).show();
-                    Intent intent = new Intent(getApplicationContext()                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              , MainActivity.class);
+                    Intent intent = new Intent(getApplicationContext(), MainActivity.class);
                     startActivity(intent);
                 }
             }
         });
-    }
 
+    }
+    public void downloadFile (String file_url) {
+        new DownloadFileFromURL().execute(file_url);
+    }
 
     public static AudioFragment newInstance(Model audio) {
         AudioFragment audioFragment = new AudioFragment();
@@ -197,7 +170,41 @@ public class ShowCase extends AppCompatActivity {
         return audioFragment;
     }
 
-    class DownloadFileFromURL extends AsyncTask<String, String, String> {
+    @Override
+    public void changeFragment(Model model) {
+        if (fragmentManager == null) return;
+        FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+        fragmentTransaction.addToBackStack("fragment");
+
+        AudioFragment fragment = newInstance(model);
+        fragmentTransaction.replace(R.id.fragmentContainer, fragment, "Item Id " + model.getItemid());
+        playSong(fragment);
+        Log.d("Play song", "called");
+        fragmentTransaction.setTransition(FragmentTransaction.TRANSIT_FRAGMENT_OPEN).commit();
+    }
+
+    @Override
+    public void loadSong(Model nextItem) {
+        String d = nextItem.getDesc().replaceAll("\\s+", "");
+        String uri = "/sdcard/Multibhashi/" + d + ".aac";
+        File file = new File(uri);
+        if (!file.exists()) {
+            String file_url = nextItem.getAudio();
+
+            new DownloadFileFromURL().execute(file_url);
+            downloadVersion = d;
+        }
+    }
+
+    @Override
+    public void playSong(AudioFragment fragment) {
+        if (fragment != null){
+            fragment.playSong();
+        }
+    }
+
+
+    public class DownloadFileFromURL extends AsyncTask<String, String, String> {
 
 
         @Override

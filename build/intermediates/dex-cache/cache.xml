@@ -106,7 +106,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="58c4d7ad54351cef33f85e14c10f10da84de0607">
+        sha1="06825eaef5b0936373237831a8c1d18ab4b16c6a">
         <dex dex="/home/vrushank/Desktop/Vrushank/Multibhashi2-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dee4b382d02e878781174b34b0e1a0b6903db8cd/classes.dex" />
     </item>
     <item
@@ -156,6 +156,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/vrushank/Desktop/Vrushank/Multibhashi2-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/vrushank/Desktop/Vrushank/Multibhashi2-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_4d3810ba576b1278386aaf0b22e3f870ff1a5c0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/vrushank/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
         jumboMode="true"
         optimize="true"
@@ -183,11 +192,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/vrushank/Desktop/Vrushank/Multibhashi2-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/vrushank/Desktop/Vrushank/Multibhashi2-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_47353d01149f453766f43caea4397d8661dc73c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/vrushank/Desktop/Vrushank/Multibhashi2-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="e7d1644cf03543c4df56bc66743cf5250827bd1e">
+        sha1="585836db1c8478dfca17144ac3381ddb85c8c8d5">
         <dex dex="/home/vrushank/Desktop/Vrushank/Multibhashi2-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ad759b4001734d5fc8c8f84c2d2bc56a9fb2fd45/classes.dex" />
     </item>
     <item
@@ -225,6 +243,15 @@
         revision="25.0.0"
         sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
         <dex dex="/home/vrushank/Desktop/Vrushank/Multibhashi2-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_6266ae22fcdcb487a9a1fe9dc8db6db69cd1abc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/vrushank/Desktop/Vrushank/Multibhashi2-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/vrushank/Desktop/Vrushank/Multibhashi2-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_b3f566277292ef846a92af7f325c12653c04328f/classes.dex" />
     </item>
 
 </items>

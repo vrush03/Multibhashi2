@@ -29,6 +29,10 @@ import java.net.URLConnection;
 public class AudioFragment extends Fragment {
 
     String file_url, downloadVersion;
+    String audio = "";
+    String idStr = "";
+    String descStr = "";
+
     public AudioFragment() {
         // Required empty public constructor
     }
@@ -43,17 +47,27 @@ public class AudioFragment extends Fragment {
         TextView id, desc;
         id = (TextView) view.findViewById(R.id.id);
         desc = (TextView) view.findViewById(R.id.desc);
-        String audio = getArguments().getString("audio");
-        String idStr = getArguments().getString("id");
-        String descStr = getArguments().getString("desc");
+        audio = getArguments().getString("audio");
+        idStr = getArguments().getString("id");
+        descStr = getArguments().getString("desc");
         id.setText(idStr);
         desc.setText(descStr);
+        return view;
+    }
+
+    @Override
+    public void onStop() {
+        super.onStop();
+        if (mediaPlayer != null) mediaPlayer.stop();
+    }
+
+    public void playSong(){
         try {
             String d = descStr.replaceAll("\\s+", "");
             String uri = "/sdcard/Multibhashi/" + d + ".aac";
             File file = new File(uri);
             if (!file.exists()) {
-                String url = audio; // your URL here
+                String url = getArguments().getString("audio");; // your URL here
                 mediaPlayer = new MediaPlayer();
                 mediaPlayer.setAudioStreamType(AudioManager.STREAM_MUSIC);
                 mediaPlayer.setDataSource(url);
@@ -73,13 +87,6 @@ public class AudioFragment extends Fragment {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return view;
-    }
-
-    @Override
-    public void onStop() {
-        super.onStop();
-        mediaPlayer.stop();
     }
 
     class DownloadFileFromURL extends AsyncTask<String, String, String> {
@@ -137,7 +144,7 @@ public class AudioFragment extends Fragment {
 
         @Override
         protected void onPostExecute(String file_url) {
-            
+
 
         }
 
